@@ -1,6 +1,7 @@
 # SOA2-AlfaiqRIdo-40148
 ## Screenshots
 1. Uji1
+![image alt](https://github.com/Rocketz64/SOA2-AlfaiqRIdo-40148/blob/86c2743793e86c3b772eb0609dfde5276dc3b540/Uji1.png)
 2. Uji2
 3. Uji3
 4. Uji4
