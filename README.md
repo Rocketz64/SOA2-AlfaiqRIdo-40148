@@ -1,1 +1,9 @@
 # SOA2-AlfaiqRIdo-40148
+## Screenshots
+1. Uji1
+2. Uji2
+3. Uji3
+4. Uji4
+5. Uji5
+6. Uji6
+7. Uji7
