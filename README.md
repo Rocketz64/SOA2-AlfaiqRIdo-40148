@@ -3,8 +3,14 @@
 1. Uji1
 ![image alt](https://github.com/Rocketz64/SOA2-AlfaiqRIdo-40148/blob/86c2743793e86c3b772eb0609dfde5276dc3b540/Uji1.png)
 2. Uji2
+![image alt](https://github.com/Rocketz64/SOA2-AlfaiqRIdo-40148/blob/dc05c96384bf31f7c9acc47ad3e92a73c8584bf8/Uji2.png)
 3. Uji3
+![image alt](https://github.com/Rocketz64/SOA2-AlfaiqRIdo-40148/blob/dc05c96384bf31f7c9acc47ad3e92a73c8584bf8/Uji3.png)
 4. Uji4
+![image alt](https://github.com/Rocketz64/SOA2-AlfaiqRIdo-40148/blob/dc05c96384bf31f7c9acc47ad3e92a73c8584bf8/Uji4.png)
 5. Uji5
+![image alt](https://github.com/Rocketz64/SOA2-AlfaiqRIdo-40148/blob/dc05c96384bf31f7c9acc47ad3e92a73c8584bf8/Uji5.png)
 6. Uji6
+![image alt](https://github.com/Rocketz64/SOA2-AlfaiqRIdo-40148/blob/dc05c96384bf31f7c9acc47ad3e92a73c8584bf8/Uji6.png)
 7. Uji7
+![image alt](https://github.com/Rocketz64/SOA2-AlfaiqRIdo-40148/blob/dc05c96384bf31f7c9acc47ad3e92a73c8584bf8/Uji7.png)
