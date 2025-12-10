@@ -1,0 +1,6 @@
+1. Sleep() pada ThreadRoutine akan buat Thread tidur dalam no. tertentu, pada saat itu, akan ngeprint detik tersebut. Pada bagian main process menunggu hingga detik 10 untuk print dan exit.
+2. pthread_detach merupakan mekanisme koordinasi untuk memastikan parent thread selesai, mencegah premature termination dan membersihkan resorce dengan benar
+3. pthread_detach(tid1) membuat thread 1 berjalan independen tanpa perlu di join, sehingga percobaan join thread 1 akan gagal.
+4. Iya, karena semua Thread dalam satu proses berbagi ruang memori yang sama,
+Child Thread dpt membaca nilai yang diubah oleh parent(10),
+dan Perubahan yang dilakukan satu threa langsung terlihat oleh thread lain
