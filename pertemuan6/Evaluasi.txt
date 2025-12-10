@@ -1,0 +1,21 @@
+1. Dala segi kompleksitas implmentasi, FCFS lebih ringkas dibandingkan SJF,
+sebab untuk FCFS hanya melakukan proses sesuai urutan,
+sedangkan SJF harus memeriksa dan mencari proses mana yang perlu dimulai lebih awal
+
+2. Dari 3 proses dengan BT: 20, 30, 10 (dan time slice 10),
+SJF memiliki rata-rata waiting-time paling kecil
+sednagkan RR memiliki rata-rata turnaround-time paling kecil
+
+AVG Waiting time:
+FCFS: 23
+SJF: 13
+RR: 23
+
+AVG Turaround time:
+FCFS: 43
+SJF: 33
+RR: 23
+
+3. RR lebih adil dalam menjalanjan masing-masing proses,
+Efektif untuk sistem interaktif,
+dan Implmentasinya relatif sederhana
